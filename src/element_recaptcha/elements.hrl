@@ -1,0 +1,1 @@
+-record(recaptcha, {?ELEMENT_BASE(element_recaptcha), public_key}).
